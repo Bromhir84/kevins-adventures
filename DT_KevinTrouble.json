@@ -1,0 +1,16 @@
+[
+	{
+		"Name": "TRIKE_01",
+		"PlanName": "Operation Berry Bucket",
+		"BroadcastText": "Kevin is in trouble! The Platypussey Patrol wanted help gathering berries.",
+		"NestClueText": "The nest is covered in crushed berries. Kevin was last seen near Trikes.",
+		"TargetDinoClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP.Trike_Character_BP_C'"
+	},
+	{
+		"Name": "STEGO_01",
+		"PlanName": "Fashion Advice",
+		"BroadcastText": "Kevin is in trouble! The Platypussey Patrol convinced Kevin that Stegosaurus spikes are fashionable.Kevin has gone looking for style advice.",
+		"NestClueText": "The sand around the nest is covered in strange drawings of plates and spikes.Large herbivore tracks lead inland.Kevin was last seen near Stegos.",
+		"TargetDinoClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP.Stego_Character_BP_C'"
+	}
+]
