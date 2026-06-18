@@ -12,5 +12,47 @@
 		"BroadcastText": "Kevin is in trouble! The Platypussey Patrol convinced Kevin that Stegosaurus spikes are fashionable.Kevin has gone looking for style advice.",
 		"NestClueText": "The sand around the nest is covered in strange drawings of plates and spikes.Large herbivore tracks lead inland.Kevin was last seen near Stegos.",
 		"TargetDinoClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP.Stego_Character_BP_C'"
+	},
+	{
+		"Name": "RAPTOR_01",
+		"PlanName": "Operation Sneaky Screech",
+		"BroadcastText": "Kevin is in trouble! The Platypussey Patrol told Kevin that Raptors were hosting a whispering contest, and now he has gone to judge it.",
+		"NestClueText": "The nest is surrounded by tiny claw marks and dramatic scribbles. Something fast dashed off through the grass. Kevin was last seen near Raptors.",
+		"TargetDinoClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP.Raptor_Character_BP_C'"
+	},
+	{
+		"Name": "DODO_01",
+		"PlanName": "Feather Forecast",
+		"BroadcastText": "Kevin is in trouble! The Platypussey Patrol convinced Kevin that Dodos can predict the weather by flapping in circles, and he ran off to investigate.",
+		"NestClueText": "Loose feathers are scattered all around the nest, and the dirt is stamped with frantic little footprints. Kevin was last seen near Dodos.",
+		"TargetDinoClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP.Dodo_Character_BP_C'"
+	},
+	{
+		"Name": "ANKYLO_01",
+		"PlanName": "Operation Tail Bonk",
+		"BroadcastText": "Kevin is in trouble! The Platypussey Patrol told Kevin that Ankylosaurus tails make excellent parade drums, and now he is marching along behind them.",
+		"NestClueText": "The ground near the nest is covered in neat circular dents, like someone practiced drumming in the mud. Heavy tracks head toward the rocks. Kevin was last seen near Ankylos.",
+		"TargetDinoClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP_C'"
+	},
+	{
+		"Name": "PTERA_01",
+		"PlanName": "Sky Delivery Scheme",
+		"BroadcastText": "Kevin is in trouble! The Platypussey Patrol signed Kevin up for airborne snack delivery, and he has gone chasing Pteranodons.",
+		"NestClueText": "The nest is littered with dropped leaves and long drag marks from something taking off in a hurry. Kevin was last seen near Pteranodons.",
+		"TargetDinoClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Ptero/Ptero_Character_BP.Ptero_Character_BP_C'"
+	},
+	{
+		"Name": "PHIOMIA_01",
+		"PlanName": "Mud Trumpet Rehearsal",
+		"BroadcastText": "Kevin is in trouble! The Platypussey Patrol promised Kevin a grand jungle concert starring Phiomias, and he hurried off before the first toot.",
+		"NestClueText": "The nest is splashed with mud and there are broad round footprints pressed deep into the ground. Kevin was last seen near Phiomias.",
+		"TargetDinoClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Phiomia/Phiomia_Character_BP.Phiomia_Character_BP_C'"
+	},
+	{
+		"Name": "BRONTO_01",
+		"PlanName": "Operation Very Tall Ladder",
+		"BroadcastText": "Kevin is in trouble! The Platypussey Patrol told Kevin that Brontosaurus necks are nature's best lookout towers, and he has gone climbing after a better view.",
+		"NestClueText": "Broken branches and gigantic footprints surround the nest. Whatever passed by here was unbelievably tall. Kevin was last seen near Brontos.",
+		"TargetDinoClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Sauropod/Sauropod_Character_BP.Sauropod_Character_BP_C'"
 	}
 ]
