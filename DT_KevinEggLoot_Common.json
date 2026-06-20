@@ -1,0 +1,10 @@
+[
+	{
+		"Name": "SpiderSaddle",
+		"Weight": 1,
+		"MinQuantity": 1,
+		"MaxQuantity": 1,
+		"QualityMultiplier": 0,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_SpiderSaddle.PrimalItemArmor_SpiderSaddle_C'"
+	}
+]
