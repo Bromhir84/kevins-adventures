@@ -1,130 +1,106 @@
-[
-	{
-		"Name": "MetalIngot",
-		"Weight": 9,
-		"MinQuantity": 20,
-		"MaxQuantity": 80,
-		"QualityMultiplier": 1.1,
-		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_MetalIngot.PrimalItemResource_MetalIngot_C'"
-	},
-	{
-		"Name": "Crystal",
-		"Weight": 7,
-		"MinQuantity": 15,
-		"MaxQuantity": 60,
-		"QualityMultiplier": 1.1,
-		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Crystal.PrimalItemResource_Crystal_C'"
-	},
-	{
-		"Name": "Obsidian",
-		"Weight": 7,
-		"MinQuantity": 12,
-		"MaxQuantity": 50,
-		"QualityMultiplier": 1.15,
-		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Obsidian.PrimalItemResource_Obsidian_C'"
-	},
-	{
-		"Name": "Oil",
-		"Weight": 6,
-		"MinQuantity": 15,
-		"MaxQuantity": 55,
-		"QualityMultiplier": 1.1,
-		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil_C'"
-	},
-	{
-		"Name": "CementingPaste",
-		"Weight": 6,
-		"MinQuantity": 12,
-		"MaxQuantity": 45,
-		"QualityMultiplier": 1.2,
-		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste_C'"
-	},
-	{
-		"Name": "Polymer",
-		"Weight": 5,
-		"MinQuantity": 10,
-		"MaxQuantity": 35,
-		"QualityMultiplier": 1.25,
-		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer.PrimalItemResource_Polymer_C'"
-	},
-	{
-		"Name": "Electronics",
-		"Weight": 5,
-		"MinQuantity": 8,
-		"MaxQuantity": 30,
-		"QualityMultiplier": 1.25,
-		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Electronics.PrimalItemResource_Electronics_C'"
-	},
-	{
-		"Name": "SimpleRifleAmmo",
-		"Weight": 5,
-		"MinQuantity": 20,
-		"MaxQuantity": 80,
-		"QualityMultiplier": 1.35,
-		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleRifleBullet.PrimalItemAmmo_SimpleRifleBullet_C'"
-	},
-	{
-		"Name": "TranqDart",
-		"Weight": 5,
-		"MinQuantity": 12,
-		"MaxQuantity": 45,
-		"QualityMultiplier": 1.4,
-		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_TranqDart.PrimalItemAmmo_TranqDart_C'"
-	},
-	{
-		"Name": "MedicalBrew",
-		"Weight": 5,
-		"MinQuantity": 6,
-		"MaxQuantity": 22,
-		"QualityMultiplier": 1.4,
-		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_HealSoup.PrimalItemConsumable_HealSoup_C'"
-	},
-	{
-		"Name": "MetalHatchet",
-		"Weight": 7,
-		"MinQuantity": 1,
-		"MaxQuantity": 1,
-		"QualityMultiplier": 1.55,
-		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalHatchet.PrimalItem_WeaponMetalHatchet_C'"
-	},
-	{
-		"Name": "MetalPick",
-		"Weight": 7,
-		"MinQuantity": 1,
-		"MaxQuantity": 1,
-		"QualityMultiplier": 1.55,
-		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalPick.PrimalItem_WeaponMetalPick_C'"
-	},
-	{
-		"Name": "ArgentavisSaddle",
-		"Weight": 7,
-		"MinQuantity": 1,
-		"MaxQuantity": 1,
-		"QualityMultiplier": 1.75,
-		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_ArgentavisSaddle.PrimalItemArmor_ArgentavisSaddle_C'"
-	},
-	{
-		"Name": "RexSaddle",
-		"Weight": 5,
-		"MinQuantity": 1,
-		"MaxQuantity": 1,
-		"QualityMultiplier": 1.9,
-		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle.PrimalItemArmor_RexSaddle_C'"
-	},
-	{
-		"Name": "QuetzSaddle",
-		"Weight": 4,
-		"MinQuantity": 1,
-		"MaxQuantity": 1,
-		"QualityMultiplier": 2.05,
-		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_QuetzSaddle.PrimalItemArmor_QuetzSaddle_C'"
-	},
-	{
-		"Name": "SpiderSaddle",
-		"Weight": 3,
-		"MinQuantity": 1,
-		"MaxQuantity": 1,
-		"QualityMultiplier": 2.15,
-		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_SpiderSaddle.PrimalItemArmor_SpiderSaddle_C'"
-	}
+﻿[
+{
+"Name": "AssaultRifle",
+"Weight": 8,
+"MinQuantity": 1,
+"MaxQuantity": 1,
+"QualityMultiplier": 2.2,
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponRifleAssault.PrimalItem_WeaponRifleAssault_C'"
+},
+{
+"Name": "CompoundBow",
+"Weight": 7,
+"MinQuantity": 1,
+"MaxQuantity": 1,
+"QualityMultiplier": 2.15,
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponCompoundBow.PrimalItem_WeaponCompoundBow_C'"
+},
+{
+"Name": "RocketLauncher",
+"Weight": 9,
+"MinQuantity": 1,
+"MaxQuantity": 1,
+"QualityMultiplier": 2.3,
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponRocketLauncher.PrimalItem_WeaponRocketLauncher_C'"
+},
+{
+"Name": "Longsword",
+"Weight": 8,
+"MinQuantity": 1,
+"MaxQuantity": 1,
+"QualityMultiplier": 2.1,
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponLongsword.PrimalItem_WeaponLongsword_C'"
+},
+{
+"Name": "RiotHelmet",
+"Weight": 6,
+"MinQuantity": 1,
+"MaxQuantity": 1,
+"QualityMultiplier": 2.05,
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Armor/PrimalItemArmor_RiotHelmet.PrimalItemArmor_RiotHelmet_C'"
+},
+{
+"Name": "RiotChest",
+"Weight": 7,
+"MinQuantity": 1,
+"MaxQuantity": 1,
+"QualityMultiplier": 2.05,
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Armor/PrimalItemArmor_RiotChest.PrimalItemArmor_RiotChest_C'"
+},
+{
+"Name": "RiotGloves",
+"Weight": 5,
+"MinQuantity": 1,
+"MaxQuantity": 1,
+"QualityMultiplier": 2.05,
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Armor/PrimalItemArmor_RiotGloves.PrimalItemArmor_RiotGloves_C'"
+},
+{
+"Name": "TekHelmet",
+"Weight": 4,
+"MinQuantity": 1,
+"MaxQuantity": 1,
+"QualityMultiplier": 2.25,
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Armor/PrimalItemArmor_TekHelmet.PrimalItemArmor_TekHelmet_C'"
+},
+{
+"Name": "RexSaddle",
+"Weight": 9,
+"MinQuantity": 1,
+"MaxQuantity": 1,
+"QualityMultiplier": 2.25,
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle.PrimalItemArmor_RexSaddle_C'"
+},
+{
+"Name": "QuetzSaddle",
+"Weight": 10,
+"MinQuantity": 1,
+"MaxQuantity": 1,
+"QualityMultiplier": 2.3,
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_QuetzSaddle.PrimalItemArmor_QuetzSaddle_C'"
+},
+{
+"Name": "SpiderSaddle",
+"Weight": 7,
+"MinQuantity": 1,
+"MaxQuantity": 1,
+"QualityMultiplier": 2.35,
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_SpiderSaddle.PrimalItemArmor_SpiderSaddle_C'"
+},
+{
+"Name": "MosasaurSaddleBP",
+"Weight": 1,
+"MinQuantity": 1,
+"MaxQuantity": 1,
+"QualityMultiplier": 2.4,
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/BPMosasaurSaddle.BPMosasaurSaddle_C'"
+},
+{
+"Name": "GigantopithecusSaddleBP",
+"Weight": 1,
+"MinQuantity": 1,
+"MaxQuantity": 1,
+"QualityMultiplier": 2.4,
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/BPGigantopithecusSaddle.BPGigantopithecusSaddle_C'"
+}
 ]
