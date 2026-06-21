@@ -1,10 +1,130 @@
 [
 	{
-		"Name": "SpiderSaddle",
+		"Name": "Stone",
+		"Weight": 16,
+		"MinQuantity": 20,
+		"MaxQuantity": 80,
+		"QualityMultiplier": 0.75,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Stone.PrimalItemResource_Stone_C'"
+	},
+	{
+		"Name": "Flint",
+		"Weight": 14,
+		"MinQuantity": 15,
+		"MaxQuantity": 60,
+		"QualityMultiplier": 0.75,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Flint.PrimalItemResource_Flint_C'"
+	},
+	{
+		"Name": "Thatch",
+		"Weight": 16,
+		"MinQuantity": 30,
+		"MaxQuantity": 120,
+		"QualityMultiplier": 0.65,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Thatch.PrimalItemResource_Thatch_C'"
+	},
+	{
+		"Name": "Wood",
+		"Weight": 13,
+		"MinQuantity": 20,
+		"MaxQuantity": 90,
+		"QualityMultiplier": 0.75,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wood.PrimalItemResource_Wood_C'"
+	},
+	{
+		"Name": "Fiber",
+		"Weight": 12,
+		"MinQuantity": 25,
+		"MaxQuantity": 100,
+		"QualityMultiplier": 0.65,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Fibers.PrimalItemResource_Fibers_C'"
+	},
+	{
+		"Name": "Hide",
+		"Weight": 10,
+		"MinQuantity": 10,
+		"MaxQuantity": 45,
+		"QualityMultiplier": 0.8,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Hide.PrimalItemResource_Hide_C'"
+	},
+	{
+		"Name": "RawMeat",
+		"Weight": 9,
+		"MinQuantity": 5,
+		"MaxQuantity": 25,
+		"QualityMultiplier": 0.75,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMeat.PrimalItemConsumable_RawMeat_C'"
+	},
+	{
+		"Name": "CookedMeat",
+		"Weight": 8,
+		"MinQuantity": 4,
+		"MaxQuantity": 18,
+		"QualityMultiplier": 0.85,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedMeat.PrimalItemConsumable_CookedMeat_C'"
+	},
+	{
+		"Name": "Narcoberry",
+		"Weight": 9,
+		"MinQuantity": 10,
+		"MaxQuantity": 40,
+		"QualityMultiplier": 0.85,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Berries/PrimalItemConsumable_Berry_Narcoberry.PrimalItemConsumable_Berry_Narcoberry_C'"
+	},
+	{
+		"Name": "Stimberry",
+		"Weight": 9,
+		"MinQuantity": 10,
+		"MaxQuantity": 40,
+		"QualityMultiplier": 0.85,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Berries/PrimalItemConsumable_Berry_Stimberry.PrimalItemConsumable_Berry_Stimberry_C'"
+	},
+	{
+		"Name": "Sparkpowder",
+		"Weight": 6,
+		"MinQuantity": 5,
+		"MaxQuantity": 25,
+		"QualityMultiplier": 0.9,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sparkpowder.PrimalItemResource_Sparkpowder_C'"
+	},
+	{
+		"Name": "StoneHatchet",
+		"Weight": 5,
+		"MinQuantity": 1,
+		"MaxQuantity": 1,
+		"QualityMultiplier": 0.95,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponStoneHatchet.PrimalItem_WeaponStoneHatchet_C'"
+	},
+	{
+		"Name": "StonePick",
+		"Weight": 5,
+		"MinQuantity": 1,
+		"MaxQuantity": 1,
+		"QualityMultiplier": 0.95,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponStonePick.PrimalItem_WeaponStonePick_C'"
+	},
+	{
+		"Name": "Chitin",
+		"Weight": 4,
+		"MinQuantity": 6,
+		"MaxQuantity": 25,
+		"QualityMultiplier": 0.9,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Chitin.PrimalItemResource_Chitin_C'"
+	},
+	{
+		"Name": "Keratin",
+		"Weight": 4,
+		"MinQuantity": 6,
+		"MaxQuantity": 25,
+		"QualityMultiplier": 0.9,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Keratin.PrimalItemResource_Keratin_C'"
+	},
+	{
+		"Name": "DodoSaddle",
 		"Weight": 1,
 		"MinQuantity": 1,
 		"MaxQuantity": 1,
-		"QualityMultiplier": 0,
-		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_SpiderSaddle.PrimalItemArmor_SpiderSaddle_C'"
+		"QualityMultiplier": 1,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DodoSaddle.PrimalItemArmor_DodoSaddle_C'"
 	}
 ]

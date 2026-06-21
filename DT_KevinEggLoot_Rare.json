@@ -1,10 +1,130 @@
 [
 	{
-		"Name": "SpiderSaddle",
-		"Weight": 1,
+		"Name": "Metal",
+		"Weight": 12,
+		"MinQuantity": 15,
+		"MaxQuantity": 60,
+		"QualityMultiplier": 0.95,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Metal.PrimalItemResource_Metal_C'"
+	},
+	{
+		"Name": "MetalIngot",
+		"Weight": 10,
+		"MinQuantity": 8,
+		"MaxQuantity": 35,
+		"QualityMultiplier": 1,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_MetalIngot.PrimalItemResource_MetalIngot_C'"
+	},
+	{
+		"Name": "Crystal",
+		"Weight": 8,
+		"MinQuantity": 8,
+		"MaxQuantity": 30,
+		"QualityMultiplier": 1,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Crystal.PrimalItemResource_Crystal_C'"
+	},
+	{
+		"Name": "Obsidian",
+		"Weight": 8,
+		"MinQuantity": 6,
+		"MaxQuantity": 24,
+		"QualityMultiplier": 1.05,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Obsidian.PrimalItemResource_Obsidian_C'"
+	},
+	{
+		"Name": "Oil",
+		"Weight": 7,
+		"MinQuantity": 8,
+		"MaxQuantity": 30,
+		"QualityMultiplier": 1,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil_C'"
+	},
+	{
+		"Name": "CementingPaste",
+		"Weight": 7,
+		"MinQuantity": 6,
+		"MaxQuantity": 24,
+		"QualityMultiplier": 1.05,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste_C'"
+	},
+	{
+		"Name": "Gunpowder",
+		"Weight": 7,
+		"MinQuantity": 8,
+		"MaxQuantity": 28,
+		"QualityMultiplier": 1.05,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Gunpowder.PrimalItemResource_Gunpowder_C'"
+	},
+	{
+		"Name": "SimpleRifleAmmo",
+		"Weight": 6,
+		"MinQuantity": 6,
+		"MaxQuantity": 20,
+		"QualityMultiplier": 1.1,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleRifleBullet.PrimalItemAmmo_SimpleRifleBullet_C'"
+	},
+	{
+		"Name": "TranquilizerDart",
+		"Weight": 6,
+		"MinQuantity": 4,
+		"MaxQuantity": 16,
+		"QualityMultiplier": 1.1,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_TranqDart.PrimalItemAmmo_TranqDart_C'"
+	},
+	{
+		"Name": "MedicalBrew",
+		"Weight": 6,
+		"MinQuantity": 2,
+		"MaxQuantity": 10,
+		"QualityMultiplier": 1.15,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_HealSoup.PrimalItemConsumable_HealSoup_C'"
+	},
+	{
+		"Name": "MetalHatchet",
+		"Weight": 7,
 		"MinQuantity": 1,
 		"MaxQuantity": 1,
-		"QualityMultiplier": 0,
+		"QualityMultiplier": 1.35,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalHatchet.PrimalItem_WeaponMetalHatchet_C'"
+	},
+	{
+		"Name": "MetalPick",
+		"Weight": 7,
+		"MinQuantity": 1,
+		"MaxQuantity": 1,
+		"QualityMultiplier": 1.35,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalPick.PrimalItem_WeaponMetalPick_C'"
+	},
+	{
+		"Name": "RaptorSaddle",
+		"Weight": 5,
+		"MinQuantity": 1,
+		"MaxQuantity": 1,
+		"QualityMultiplier": 1.4,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RaptorSaddle.PrimalItemArmor_RaptorSaddle_C'"
+	},
+	{
+		"Name": "AnkyloSaddle",
+		"Weight": 4,
+		"MinQuantity": 1,
+		"MaxQuantity": 1,
+		"QualityMultiplier": 1.4,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_AnkyloSaddle.PrimalItemArmor_AnkyloSaddle_C'"
+	},
+	{
+		"Name": "SpiderSaddle",
+		"Weight": 3,
+		"MinQuantity": 1,
+		"MaxQuantity": 1,
+		"QualityMultiplier": 1.5,
 		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_SpiderSaddle.PrimalItemArmor_SpiderSaddle_C'"
+	},
+	{
+		"Name": "PteroSaddle",
+		"Weight": 5,
+		"MinQuantity": 1,
+		"MaxQuantity": 1,
+		"QualityMultiplier": 1.35,
+		"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_PteroSaddle.PrimalItemArmor_PteroSaddle_C'"
 	}
 ]
