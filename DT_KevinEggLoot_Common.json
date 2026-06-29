@@ -5,7 +5,7 @@
 "MinQuantity": 1,
 "MaxQuantity": 1,
 "QualityMultiplier": 1.4,
-"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponSimpleRifle.PrimalItem_WeaponSimpleRifle_C'"
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponOneShotRifle.PrimalItem_WeaponOneShotRifle_C'"
 },
 {
 "Name": "Crossbow",
@@ -21,7 +21,7 @@
 "MinQuantity": 1,
 "MaxQuantity": 1,
 "QualityMultiplier": 1.42,
-"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponShotgun.PrimalItem_WeaponShotgun_C'"
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedShotgun.PrimalItem_WeaponMachinedShotgun_C'"
 },
 {
 "Name": "FlakHelmet",
@@ -29,7 +29,7 @@
 "MinQuantity": 1,
 "MaxQuantity": 1,
 "QualityMultiplier": 1.35,
-"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Armor/PrimalItemArmor_FlakHelmet.PrimalItemArmor_FlakHelmet_C'"
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/PrimalItemArmor_MetalHelmet.PrimalItemArmor_MetalHelmet_C'"
 },
 {
 "Name": "FlakChest",
@@ -37,7 +37,7 @@
 "MinQuantity": 1,
 "MaxQuantity": 1,
 "QualityMultiplier": 1.35,
-"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Armor/PrimalItemArmor_FlakChest.PrimalItemArmor_FlakChest_C'"
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/PrimalItemArmor_MetalShirt.PrimalItemArmor_MetalShirt_C'"
 },
 {
 "Name": "FlakGloves",
@@ -45,7 +45,7 @@
 "MinQuantity": 1,
 "MaxQuantity": 1,
 "QualityMultiplier": 1.35,
-"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Armor/PrimalItemArmor_FlakGloves.PrimalItemArmor_FlakGloves_C'"
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/PrimalItemArmor_MetalGloves.PrimalItemArmor_MetalGloves_C'"
 },
 {
 "Name": "FlakPants",
@@ -53,7 +53,7 @@
 "MinQuantity": 1,
 "MaxQuantity": 1,
 "QualityMultiplier": 1.35,
-"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Armor/PrimalItemArmor_FlakPants.PrimalItemArmor_FlakPants_C'"
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/PrimalItemArmor_MetalPants.PrimalItemArmor_MetalPants_C'"
 },
 {
 "Name": "RaptorSaddle",
@@ -64,11 +64,11 @@
 "ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RaptorSaddle.PrimalItemArmor_RaptorSaddle_C'"
 },
 {
-"Name": "ArgentavisSaddleBP",
-"Weight": 1,
+"Name": "CarnoSaddle",
+"Weight": 7,
 "MinQuantity": 1,
 "MaxQuantity": 1,
-"QualityMultiplier": 1.5,
-"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/BPArgentavisSaddle.BPArgentavisSaddle_C'"
+"QualityMultiplier": 1.45,
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_CarnoSaddle.PrimalItemArmor_CarnoSaddle_C'"
 }
 ]

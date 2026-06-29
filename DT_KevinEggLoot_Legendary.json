@@ -5,7 +5,7 @@
 "MinQuantity": 1,
 "MaxQuantity": 1,
 "QualityMultiplier": 2.2,
-"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponRifleAssault.PrimalItem_WeaponRifleAssault_C'"
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponRifle.PrimalItem_WeaponRifle_C'"
 },
 {
 "Name": "CompoundBow",
@@ -29,7 +29,7 @@
 "MinQuantity": 1,
 "MaxQuantity": 1,
 "QualityMultiplier": 2.1,
-"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponLongsword.PrimalItem_WeaponLongsword_C'"
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponSword.PrimalItem_WeaponSword_C'"
 },
 {
 "Name": "RiotHelmet",
@@ -37,7 +37,7 @@
 "MinQuantity": 1,
 "MaxQuantity": 1,
 "QualityMultiplier": 2.05,
-"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Armor/PrimalItemArmor_RiotHelmet.PrimalItemArmor_RiotHelmet_C'"
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/PrimalItemArmor_RiotHelmet.PrimalItemArmor_RiotHelmet_C'"
 },
 {
 "Name": "RiotChest",
@@ -45,7 +45,7 @@
 "MinQuantity": 1,
 "MaxQuantity": 1,
 "QualityMultiplier": 2.05,
-"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Armor/PrimalItemArmor_RiotChest.PrimalItemArmor_RiotChest_C'"
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/PrimalItemArmor_RiotShirt.PrimalItemArmor_RiotShirt_C'"
 },
 {
 "Name": "RiotGloves",
@@ -53,7 +53,7 @@
 "MinQuantity": 1,
 "MaxQuantity": 1,
 "QualityMultiplier": 2.05,
-"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Armor/PrimalItemArmor_RiotGloves.PrimalItemArmor_RiotGloves_C'"
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/PrimalItemArmor_RiotGloves.PrimalItemArmor_RiotGloves_C'"
 },
 {
 "Name": "TekHelmet",
@@ -61,7 +61,7 @@
 "MinQuantity": 1,
 "MaxQuantity": 1,
 "QualityMultiplier": 2.25,
-"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Armor/PrimalItemArmor_TekHelmet.PrimalItemArmor_TekHelmet_C'"
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/PrimalItemArmor_TekHelmet.PrimalItemArmor_TekHelmet_C'"
 },
 {
 "Name": "RexSaddle",
@@ -88,19 +88,19 @@
 "ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_SpiderSaddle.PrimalItemArmor_SpiderSaddle_C'"
 },
 {
-"Name": "MosasaurSaddleBP",
-"Weight": 1,
+"Name": "BrontoSaddle",
+"Weight": 8,
 "MinQuantity": 1,
 "MaxQuantity": 1,
-"QualityMultiplier": 2.4,
-"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/BPMosasaurSaddle.BPMosasaurSaddle_C'"
+"QualityMultiplier": 2.32,
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_SauroSaddle.PrimalItemArmor_SauroSaddle_C'"
 },
 {
-"Name": "GigantopithecusSaddleBP",
-"Weight": 1,
+"Name": "PlesiosaurSaddle",
+"Weight": 8,
 "MinQuantity": 1,
 "MaxQuantity": 1,
-"QualityMultiplier": 2.4,
-"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/BPGigantopithecusSaddle.BPGigantopithecusSaddle_C'"
+"QualityMultiplier": 2.33,
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_PlesiaSaddle.PrimalItemArmor_PlesiaSaddle_C'"
 }
 ]

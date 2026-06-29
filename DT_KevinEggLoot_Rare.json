@@ -5,7 +5,7 @@
 "MinQuantity": 1,
 "MaxQuantity": 1,
 "QualityMultiplier": 1.68,
-"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponRifleAssault.PrimalItem_WeaponRifleAssault_C'"
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponRifle.PrimalItem_WeaponRifle_C'"
 },
 {
 "Name": "CompoundBow",
@@ -21,7 +21,7 @@
 "MinQuantity": 1,
 "MaxQuantity": 1,
 "QualityMultiplier": 1.66,
-"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponShotgun.PrimalItem_WeaponShotgun_C'"
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedShotgun.PrimalItem_WeaponMachinedShotgun_C'"
 },
 {
 "Name": "Longsword",
@@ -29,7 +29,7 @@
 "MinQuantity": 1,
 "MaxQuantity": 1,
 "QualityMultiplier": 1.64,
-"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponLongsword.PrimalItem_WeaponLongsword_C'"
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponSword.PrimalItem_WeaponSword_C'"
 },
 {
 "Name": "FlakHelmet",
@@ -37,7 +37,7 @@
 "MinQuantity": 1,
 "MaxQuantity": 1,
 "QualityMultiplier": 1.6,
-"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Armor/PrimalItemArmor_FlakHelmet.PrimalItemArmor_FlakHelmet_C'"
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/PrimalItemArmor_MetalHelmet.PrimalItemArmor_MetalHelmet_C'"
 },
 {
 "Name": "FlakChest",
@@ -45,7 +45,7 @@
 "MinQuantity": 1,
 "MaxQuantity": 1,
 "QualityMultiplier": 1.6,
-"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Armor/PrimalItemArmor_FlakChest.PrimalItemArmor_FlakChest_C'"
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/PrimalItemArmor_MetalShirt.PrimalItemArmor_MetalShirt_C'"
 },
 {
 "Name": "FlakGloves",
@@ -53,7 +53,7 @@
 "MinQuantity": 1,
 "MaxQuantity": 1,
 "QualityMultiplier": 1.6,
-"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Armor/PrimalItemArmor_FlakGloves.PrimalItemArmor_FlakGloves_C'"
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/PrimalItemArmor_MetalGloves.PrimalItemArmor_MetalGloves_C'"
 },
 {
 "Name": "FlakPants",
@@ -61,7 +61,7 @@
 "MinQuantity": 1,
 "MaxQuantity": 1,
 "QualityMultiplier": 1.6,
-"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Armor/PrimalItemArmor_FlakPants.PrimalItemArmor_FlakPants_C'"
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/PrimalItemArmor_MetalPants.PrimalItemArmor_MetalPants_C'"
 },
 {
 "Name": "AnkyloSaddle",
@@ -88,19 +88,19 @@
 "ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_SpiderSaddle.PrimalItemArmor_SpiderSaddle_C'"
 },
 {
-"Name": "QuetzSaddleBP",
+"Name": "ArgentavisSaddle",
 "Weight": 2,
 "MinQuantity": 1,
 "MaxQuantity": 1,
-"QualityMultiplier": 1.8,
-"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/BPQuetzSaddle.BPQuetzSaddle_C'"
+"QualityMultiplier": 1.75,
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_ArgentavisSaddle.PrimalItemArmor_ArgentavisSaddle_C'"
 },
 {
-"Name": "RexSaddleBP",
+"Name": "TapejaraSaddle",
 "Weight": 2,
 "MinQuantity": 1,
 "MaxQuantity": 1,
-"QualityMultiplier": 1.8,
-"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/BPRexSaddle.BPRexSaddle_C'"
+"QualityMultiplier": 1.72,
+"ItemClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TapejaraSaddle.PrimalItemArmor_TapejaraSaddle_C'"
 }
 ]
