@@ -55,4 +55,138 @@
 		"NestClueText": "Broken branches and gigantic footprints surround the nest. Whatever passed by here was unbelievably tall. Kevin was last seen near Brontos.",
 		"TargetDinoClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Sauropod/Sauropod_Character_BP.Sauropod_Character_BP_C'"
 	}
+	,
+	{
+		"Name": "PARASAUR_01",
+		"PlanName": "Emergency Honk Training",
+		"BroadcastText": "Kevin is in trouble! The Platypussey Patrol convinced Kevin that Parasaurs are professional alarm teachers, and now he is taking honk lessons.",
+		"NestClueText": "The nest is surrounded by nervous little footprints and one very dramatic trail of kicked-up dirt. Kevin was last seen near Parasaurs.",
+		"TargetDinoClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Para/Para_Character_BP.Para_Character_BP_C'"
+	},
+	{
+		"Name": "DILO_01",
+		"PlanName": "Spit Shine Service",
+		"BroadcastText": "Kevin is in trouble! The Platypussey Patrol told Kevin that Dilophosaurs offer premium feather-cleaning services, and he believed them.",
+		"NestClueText": "There are little frill-shaped marks in the dirt and suspicious green splatters near the nest. Kevin was last seen near Dilos.",
+		"TargetDinoClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Dilo/Dilo_Character_BP.Dilo_Character_BP_C'"
+	},
+	{
+		"Name": "CARBONEMYS_01",
+		"PlanName": "Shell Taxi Trial",
+		"BroadcastText": "Kevin is in trouble! The Platypussey Patrol convinced Kevin that Carbonemys shells are official island taxis, and he went looking for a ride.",
+		"NestClueText": "Wide dragging tracks and tiny impatient footprints lead away from the nest. Kevin was last seen near Carbonemys.",
+		"TargetDinoClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Turtle/Turtle_Character_BP.Turtle_Character_BP_C'"
+	},
+	{
+		"Name": "CARNO_01",
+		"PlanName": "Tiny Arms Appreciation Day",
+		"BroadcastText": "Kevin is in trouble! The Platypussey Patrol told Kevin that Carnos needed emotional support for their tiny arms, and he waddled off to help.",
+		"NestClueText": "The nest has been scratched up by big claws, and someone drew tiny arms in the dirt. Kevin was last seen near Carnos.",
+		"TargetDinoClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Carno/Carno_Character_BP.Carno_Character_BP_C'"
+	},
+	{
+		"Name": "REX_01",
+		"PlanName": "Roar Evaluation Committee",
+		"BroadcastText": "Kevin is in trouble! The Platypussey Patrol appointed Kevin as a Rex roar judge, and now he is taking his clipboard duties far too seriously.",
+		"NestClueText": "Huge footprints crush the ground near the nest, and a shaky note says 'very loud, probably good'. Kevin was last seen near Rexes.",
+		"TargetDinoClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP_C'"
+	},
+	{
+		"Name": "SARCO_01",
+		"PlanName": "Swamp Smile Inspection",
+		"BroadcastText": "Kevin is in trouble! The Platypussey Patrol told Kevin that Sarcos need dental inspections, and he went to check the biggest smiles on the island.",
+		"NestClueText": "The nest is damp, muddy, and covered in long tail drags leading toward water. Kevin was last seen near Sarcos.",
+		"TargetDinoClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Sarco/Sarco_Character_BP.Sarco_Character_BP_C'"
+	},
+	{
+		"Name": "SPINO_01",
+		"PlanName": "Sailboat Confusion",
+		"BroadcastText": "Kevin is in trouble! The Platypussey Patrol convinced Kevin that Spinosaurus sails are actual boats, and he left to book passage.",
+		"NestClueText": "Wet footprints, fish scales, and a badly drawn sailboat are scattered around the nest. Kevin was last seen near Spinos.",
+		"TargetDinoClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP.Spino_Character_BP_C'"
+	},
+	{
+		"Name": "COMPY_01",
+		"PlanName": "Small Council Meeting",
+		"BroadcastText": "Kevin is in trouble! The Platypussey Patrol invited Kevin to a very important Compy council, and now he is surrounded by tiny opinions.",
+		"NestClueText": "The nest is covered in hundreds of tiny footprints and one feather-sized meeting agenda. Kevin was last seen near Compies.",
+		"TargetDinoClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Compy/Compy_Character_BP.Compy_Character_BP_C'"
+	},
+	{
+		"Name": "IGUANODON_01",
+		"PlanName": "Thumbs Up Certification",
+		"BroadcastText": "Kevin is in trouble! The Platypussey Patrol told Kevin that Iguanodons award official thumbs-up certificates, and he went to earn one.",
+		"NestClueText": "Pointy thumb marks are pressed into the mud near the nest. Kevin was last seen near Iguanodons.",
+		"TargetDinoClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Iguanodon/Iguanodon_Character_BP.Iguanodon_Character_BP_C'"
+	},
+	{
+		"Name": "PACHY_01",
+		"PlanName": "Helmet Testing Program",
+		"BroadcastText": "Kevin is in trouble! The Platypussey Patrol signed Kevin up for Pachy helmet testing, and he did not ask enough questions.",
+		"NestClueText": "Small round impact marks dot the ground near the nest, along with a note that says 'helmet probably optional'. Kevin was last seen near Pachys.",
+		"TargetDinoClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Pachy/Pachy_Character_BP.Pachy_Character_BP_C'"
+	},
+	{
+		"Name": "ANKYLO_02",
+		"PlanName": "Rock Potato Survey",
+		"BroadcastText": "Kevin is in trouble! The Platypussey Patrol told Kevin that Ankylos are expert rock potato farmers, and he went to inspect the harvest.",
+		"NestClueText": "Pebbles, dents, and suspiciously potato-shaped rocks are scattered around the nest. Kevin was last seen near Ankylos.",
+		"TargetDinoClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP_C'"
+	},
+	{
+		"Name": "ARGENT_01",
+		"PlanName": "Feather Delivery Dispute",
+		"BroadcastText": "Kevin is in trouble! The Platypussey Patrol told Kevin that Argentavis run the island postal service, and he has gone to complain about missing snacks.",
+		"NestClueText": "Large feathers and deep talon marks surround the nest. Something big flew off in a hurry. Kevin was last seen near Argentavis.",
+		"TargetDinoClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP_C'"
+	},
+	{
+		"Name": "SABER_01",
+		"PlanName": "Whisker Measurement Day",
+		"BroadcastText": "Kevin is in trouble! The Platypussey Patrol convinced Kevin that Sabertooths host official whisker-measuring competitions.",
+		"NestClueText": "Soft paw prints and tiny measuring scratches mark the dirt around the nest. Kevin was last seen near Sabertooths.",
+		"TargetDinoClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Saber/Saber_Character_BP.Saber_Character_BP_C'"
+	},
+	{
+		"Name": "DIREWOLF_01",
+		"PlanName": "Pack Howl Audition",
+		"BroadcastText": "Kevin is in trouble! The Platypussey Patrol told Kevin that Direwolves were looking for a backup singer, and he went to audition.",
+		"NestClueText": "Paw prints circle the nest, and someone scratched 'awoo practice' into the dirt. Kevin was last seen near Direwolves.",
+		"TargetDinoClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Direwolf/Direwolf_Character_BP.Direwolf_Character_BP_C'"
+	},
+	{
+		"Name": "MAMMOTH_01",
+		"PlanName": "Fluffy Mountain Inspection",
+		"BroadcastText": "Kevin is in trouble! The Platypussey Patrol told Kevin that Mammoths are walking fluffy mountains, and he left to verify this scientific claim.",
+		"NestClueText": "The nest is dusted with loose fur, crushed snow, and enormous footprints. Kevin was last seen near Mammoths.",
+		"TargetDinoClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Mammoth/Mammoth_Character_BP.Mammoth_Character_BP_C'"
+	},
+	{
+		"Name": "BEELZEBUFO_01",
+		"PlanName": "Royal Frog Bounce",
+		"BroadcastText": "Kevin is in trouble! The Platypussey Patrol convinced Kevin that Beelzebufos are royal jungle trampolines, and he went to request a bounce.",
+		"NestClueText": "The nest is damp, sticky, and surrounded by strange hopping marks. Kevin was last seen near Beelzebufos.",
+		"TargetDinoClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Toad/Toad_Character_BP.Toad_Character_BP_C'"
+	},
+	{
+		"Name": "BARYONYX_01",
+		"PlanName": "Fish Snack Negotiation",
+		"BroadcastText": "Kevin is in trouble! The Platypussey Patrol sent Kevin to negotiate fish snacks with Baryonyx, which was probably a terrible idea.",
+		"NestClueText": "Fish scales, wet claw marks, and one very nervous feather trail lead away from the nest. Kevin was last seen near Baryonyx.",
+		"TargetDinoClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Baryonyx/Baryonyx_Character_BP.Baryonyx_Character_BP_C'"
+	},
+	{
+		"Name": "MEGALODON_01",
+		"PlanName": "Underwater Smile Club",
+		"BroadcastText": "Kevin is in trouble! The Platypussey Patrol told Kevin that Megalodons run a friendly underwater smile club, and he waddled toward the shore.",
+		"NestClueText": "The nest contains wet sand, fish bones, and a very bad drawing of a shark wearing a smile. Kevin was last seen near Megalodons.",
+		"TargetDinoClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Megalodon/Megalodon_Character_BP.Megalodon_Character_BP_C'"
+	},
+	{
+		"Name": "CASTOROIDES_01",
+		"PlanName": "Unauthorized Dam Inspection",
+		"BroadcastText": "Kevin is in trouble! The Platypussey Patrol gave Kevin a tiny clipboard and sent him to inspect beaver dams.",
+		"NestClueText": "Wood chips, tooth marks, and muddy webbed footprints surround the nest. Kevin was last seen near Castoroides.",
+		"TargetDinoClass": "/Script/Engine.BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP_C'"
+	}
 ]
